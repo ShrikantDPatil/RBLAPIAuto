@@ -1,0 +1,17 @@
+{  
+   "getVirtualAccountMapping":{  
+      "Header":{  
+         "TranID":"",
+         "Corp_ID":""
+      },
+      "Body":{  
+         "MODULE":"",
+         "GetListOfAccount":"",
+         "cifid":"",
+         "UserID":"",
+         "CLIENT_ID":"",
+         "VA_IDENTIFIER":"",
+         "ACCOUNT_NUMBER":""
+      }
+   }
+}

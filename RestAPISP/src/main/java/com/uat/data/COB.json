@@ -1,0 +1,18 @@
+{ 
+   "setCorpOnBoardServiceReq":{ 
+      "Header":{ 
+         "TranID":"",
+         "Corp_ID":""
+      },
+      "Body":{ 
+         "CorpID":"",
+         "CorpName":"",
+         "CIFID":"",
+         "Val_Req":"",
+         "Debit_Acc":"",
+         "Corp_Acc_Map_Check":"",
+         "Channel":"",
+         "SAF_FLAG":""
+      }
+   }
+}

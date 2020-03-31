@@ -1,0 +1,12 @@
+ { "doAccountInquiryReq":{  
+      "Header":{  
+         "TranID":"",
+"Corp_ID":"",
+ "Maker_ID":"",
+ "Checker_ID":"",
+  "Approver_ID":""
+      },
+      "Body":{  
+         "Account_NO":""
+      }
+   }} 

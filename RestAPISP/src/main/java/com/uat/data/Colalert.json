@@ -1,0 +1,22 @@
+{ 
+   "ServiceName":"",
+   "Action":"",
+   "Data":[ 
+      { 
+         "messageType":"",
+         "amount":"",
+         "UTRNumber":"",
+         "senderIFSC":"",
+         "senderAccountNumber":"",
+         "senderAccountType":"",
+         "senderName":"",
+         "beneficiaryAccountType":"",
+         "beneficiaryAccountNumber":"",
+         "creditDate":"",
+         "creditAccountNumber":"",
+         "corporateCode":"",
+         "clientCodeMaster":"",
+         "senderInformation":""
+      }
+   ]
+}

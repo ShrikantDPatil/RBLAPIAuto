@@ -1,0 +1,25 @@
+{
+	"Single_Payment_Corp_Req": {
+		"Header": {
+			"TranID": "",
+			"Corp_ID": "",
+			"Maker_ID": "",
+			"Checker_ID": "",
+			"Approver_ID": ""
+		},
+		"Body": {
+			"Amount": "",
+			"Debit_Acct_No": "",
+			"Debit_TrnParticulars": "",
+			"Ben_IFSC": "Ben_IFSC",
+			"Ben_Acct_No": "",
+			"Ben_Name": "hellovenkat",
+			"Ben_TrnParticulars": "",
+			"Ben_PartTrnRmks": "",
+			"Mode_of_Pay": ""
+		},
+		"Signature": {
+			"Signature": ""
+		}
+	}
+}

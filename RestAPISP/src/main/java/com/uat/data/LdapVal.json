@@ -1,0 +1,23 @@
+{  
+   "Single_Payment_Corp_Req":{  
+      "Header":{  
+         "TranID":"523643",
+         "Corp_ID":"MC005",
+         "Maker_ID":"",
+         "Checker_ID":"",
+         "Approver_ID":""
+      },
+      "Body":{  
+         "Amount":10,
+         "Debit_Acct_No":1256905,
+         "Ben_IFSC":"ICIC0000555",
+         "Ben_Acct_No":401401401401,
+         "Ben_Name":"DESAI TY R ES",
+         "Mode_of_Pay":"NEFT",
+         "Remarks":"wdaw"
+      },
+      "Signature":{  
+         "Signature":7878
+      }
+   }
+}
